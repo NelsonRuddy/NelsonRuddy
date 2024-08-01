@@ -111,5 +111,32 @@ If you're looking for a professional who can effortlessly navigate the realms of
 - **Cloud Services**: Microsoft Azure, AWS, Azure
 - **Messaging & Caching**: Kafka, ActiveMQ, Redis
 - **Methodologies**: Scrum
+- **Design Patterns**: Repository, Unit of Work, DAO, MVC, CQRS,factory,singleton
 
--
+---
+
+### Architecture: Microservices
+
+In my projects, I often employ a microservices architecture, which divides a large application into smaller, independent services that communicate with each other. This approach has several benefits:
+
+- **Scalability**: Each service can be scaled independently based on its load.
+- **Development and Deployment Independence**: Teams can develop, deploy, and scale services independently.
+- **Flexibility**: Each service can use different technologies and frameworks that are best suited for its functionality.
+- **Resilience**: The failure of one service does not necessarily affect the others.
+- **Maintainability**: Small, focused services are easier to maintain and understand.
+
+**Components in a Microservices Architecture**:
+
+ **API Gateway**:
+   - Acts as the entry point for clients, handling routing, composition, and protocol translation. It provides a single point of contact and can manage tasks like authentication and rate limiting.
+
+
+
+**API Gateway Benefits**:
+
+- **Single Entry Point**: Simplifies client interactions by providing a single entry point.
+- **Security**: Manages authentication and authorization.
+- **Load Balancing**: Distributes requests to multiple instances of services.
+- **Protocol Translation**: Translates between different communication protocols.
+
+
