@@ -8,13 +8,12 @@
 
 👋 Hello there! I'm an experienced software developer with a passion for cutting-edge technologies and a knack for building robust and scalable systems. 🌟
 
-💼 With a strong background in system design and microservices architecture, I thrive in challenging environments where innovation and problem-solving are at the forefront. I'm a hardcore developer who excels in the Java ecosystem, particularly in Spring Boot, and I hold extensive experience in various development environments, including .NET Core,Express.js and python.
+💼 With a strong background in system design and microservices architecture, I thrive in challenging environments where innovation and problem-solving are at the forefront. I'm a hardcore developer who excels in the Java ecosystem, particularly in Spring Boot, and I hold extensive experience in various development environments, including 
+   Express.js and python. I am proficient in Java versions 7, 8, 11, 17, and 21
 
 🎨 When it comes to front-end development, I'm proficient in Angular,vue and react, creating dynamic and responsive user interfaces that captivate users. I believe in delivering seamless experiences across devices and platforms. 📱💻
 
-🔧 In addition to my development prowess, I also have a keen eye for infrastructure roles. I enjoy working with pipelines, Docker, and Kubernetes to ensure smooth and efficient deployment of applications. I'm well-versed in various cloud flavors, including SAAS, PAAS, and IAAS, and can architect solutions that leverage their full potential. ☁️🚀
-
-💡 Spring Boot microservices is another area where I've honed my skills. I've designed numerous applications, leveraging the power and flexibility of this framework. While my expertise lies primarily in Java, I'm not afraid to explore different technologies like .NET Core and Express.js to find the best solution for a given problem. 💪
+💡 .Net Core microservices is another area where I've honed my skills. I've designed numerous applications, leveraging the power and flexibility of this framework. While my expertise lies primarily in Java, I'm not afraid to explore different technologies like .NET Core and Express.js to find the best solution for a given problem. 💪
 
 📚 In my journey, I've become well-versed in microservices design patterns, understanding how to create scalable, maintainable, and decoupled architectures. I believe that clean code and elegant solutions are essential for success in any development endeavor. ✨📏
 
@@ -106,9 +105,11 @@ If you're looking for a professional who can effortlessly navigate the realms of
 
 ### Skills
 
-- **Languages & Frameworks**: Java (Spring Boot), .NET Core, Express.js, Python (FastAPI, Django, Flask), Angular
-- **Databases**: PostgreSQL, SQL Server, MySQL, Oracle, Mongo
+- **Languages & Frameworks**: Java (versions 7, 8, 11, 17, 21, Spring Boot), .NET Core, Express.js, Python (FastAPI, Django, Flask), Angular, Vue, React
+- **Databases**: PostgreSQL, SQL Server, MySQL, Oracle, MongoDB
 - **Tools & Platforms**: Docker, Kubernetes, WebLogic, Azure DevOps, GitHub, GitLab, JIRA, Confluence
 - **Cloud Services**: Microsoft Azure, AWS, Azure
+- **Messaging & Caching**: Kafka, ActiveMQ, Redis
+- **Methodologies**: Scrum
 
 -
