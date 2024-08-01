@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nelson Ruddy Paulino de Jesus
 
-[Blog](#) | [Twitter](#) | [LinkedIn](#) | Software Developer
+[LinkedIn](https://www.linkedin.com/in/nelson-paulino) | Software Developer
 
 ---
 
