@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**NelsonRuddy/NelsonRuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Your Name]
 
 [Blog](#) | [Twitter](#) | [LinkedIn](#) | [Your Title/Expertise](#)
 
@@ -55,7 +43,3 @@ If you're looking for a professional who can effortlessly navigate the realms of
 - **Service Mesh**
   - Spring Boot 🔄
   - Spring Cloud 🔄
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
