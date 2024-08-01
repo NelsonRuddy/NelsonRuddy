@@ -32,8 +32,7 @@ If you're looking for a professional who can effortlessly navigate the realms of
   - .NET Core 🌐
   - Express.js 🌐
 - **System Design**
-  - Low Level Design 📐
-  - DSA 🛠️
+  - High Level Design 📐
 - **Cloud**
   - Kubernetes ☁️
   - Aws Stack ☁️
