@@ -21,7 +21,7 @@
 
 If you're looking for a professional who can effortlessly navigate the realms of system design, microservices, cloud technologies, and more, then look no further. Let's connect and explore how we can revolutionize the world of software development together! 🌟🔗
 
-🔗 Connect with me at my [LinkedIn profile](#). Let's build something extraordinary! ✨🌐
+🔗 Connect with me at my [LinkedIn profile](https://www.linkedin.com/in/nelson-paulino). Let's build something extraordinary! ✨🌐
 
 ---
 
