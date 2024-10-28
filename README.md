@@ -57,9 +57,8 @@ If you're looking for a professional who can effortlessly navigate the realms of
 - **Methodologies**: Scrum
 - **Design Patterns**: Repository, Unit of Work, DAO, MVC, CQRS,Factory,Singleton,DAO,DDD,Hexagonal
 
----
----
----
+<br/>
+<br/>
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
